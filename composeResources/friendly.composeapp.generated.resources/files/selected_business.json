@@ -1,0 +1,67 @@
+{
+  "_id": "677167e7aac8690c2a02950c",
+  "id": "677167e7aac8690c2a02950b",
+  "business_number":  3,
+  "user_id": "67715de5aac8690c2a028be9",
+  "business_type_id": "676cb9acba2f7000f4e4894e",
+  "name": "Ikka Bikka Store",
+  "address": {
+    "unique_id":  1735485414932
+    ,
+    "_id": "677167e7aac8690c2a029508",
+    "user_id": "67715de5aac8690c2a028be9",
+    "feature_object_id": "",
+    "name": "",
+    "zip_code": 201310
+    ,
+    "country": "IN",
+    "state": "UP",
+    "city": "Greater Noida",
+    "area": "Gr. Noida",
+    "land_ark": "Alpha Comm",
+    "house": "101",
+    "flat_number": "",
+    "floor": "",
+    "mobile_number": "",
+    "type": "",
+    "location": {
+      "latitude": 0,
+      "longitude": 0,
+      "type": "Point",
+      "coordinates": []
+    },
+    "is_primary": false,
+    "is_deleted": false,
+    "created_at": "2024-12-29T15:15:31.264541Z",
+    "updated_at": "2024-12-29T15:15:31.264543Z",
+    "__v": 0
+  },
+  "location": {
+    "latitude": 0,
+    "longitude": 0,
+    "type": "Point",
+    "coordinates": []
+  },
+  "dealer_name": "",
+  "product_types": [],
+  "gst_number": "",
+  "pan_number": "",
+  "pan_verified": "",
+  "gst_verified": "",
+  "business_verified": "",
+  "status": "",
+  "email_id": "IkkaBikka@gmail.com",
+  "mobile_number": "7406231676",
+  "dial_code": "",
+  "country_code": "IN",
+  "gender":  0
+  ,
+  "device_id": "",
+  "fcm_token": "",
+  "last_seen": "",
+  "is_deleted": false,
+  "is_primary": false,
+  "created_at": "2024-12-29T15:16:55.534773Z",
+  "updated_at": "2024-12-29T15:16:55.534776Z",
+  "__v": 0
+}

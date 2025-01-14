@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "business.mandee.ai",
+      "sha256_cert_fingerprints": [
+        "DD:23:D0:36:AD:24:E5:37:47:9A:05:BA:63:CA:48:DF:90:8E:13:3C:6B:86:7F:5B:6F:F3:3C:A2:9A:60:9C:94"
+      ]
+    }
+  }
+]
